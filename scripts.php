@@ -5,7 +5,7 @@
         "priority": 0,
         "title": "RESET KHO 1",
         "description": "",
-        "content": "pm clear com.trustme.cashrun\npm clear com.trustme.cashrun.giftcard\npm clear com.jeju.genie\npm hide com.jeju.genie\npm clear com.omnitel.android.lottewebview\npm hide com.omnitel.android.lottewebview\npm clear com.cultsotry.yanolja.nativeapp\npm hide com.cultsotry.yanolja.nativeapp\npm clear kr.co.ticketbay.mobile\npm hide kr.co.ticketbay.mobile\npm hide kr.co.ssg\npm hide com.ulugames.with.onestore\npm hide com.himart.main\npm hide com.campmobile.snow\npm hide com.ulugames.honors.onestore\npm hide com.ulugames.mx.onestore\npm hide com.ulugames.euros.onestore\npm hide com.ulugames.euros.google\nrm -rf /data/data/com.ulugames.sanguo.google/shared_prefs\npm hide com.ulugames.sanguo.google\npm hide com.skylinematrix.onestore.gor\npm hide com.indie.jzx.kr\nrm -rf /data/otp\nrm -rf /sdcard/.NASWall\nrm -rf /sdcard/igaw\nrm -rf /sdcard/data/build\npm clear com.android.keychain\npm clear com.google.vending\npm clear com.google.android.gms\n ",
+        "content": " ",
         "as_root": true,
         "show_notification": false,
         "show_result": false,
